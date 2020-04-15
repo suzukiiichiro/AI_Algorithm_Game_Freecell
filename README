@@ -1,3 +1,5 @@
+フリーセルをＣでまじめに考えてみる。CUIで動作するＣで構築したゲーム「フリーセル」
+
 This is freecell, a console (ncurses) version of the popular solitaire
 game.
 
